@@ -22,6 +22,28 @@ A new Flutter project.
 
 ![image](assets/images/0006.png)
 
+## Latihan untuk Eksplorasi Lebih Lanjut
+
+* Tambah Form + validator untuk validasi input.
+
+* Tambah fitur show/hide password dengan IconButton.
+
+* Simpan sesi login ke SharedPreferences (isLoggedIn + userEmail).
+
+* Desain gradient + button tetap dipertahankan.
+
+![image](assets/images/latihan1.png)
+
+![image](assets/images/latihan2.png)
+
+![image](assets/images/latihan3.png)
+
+![image](assets/images/latihan4.png)
+
+![image](assets/images/latihan5.png)
+
+![image](assets/images/latihan6.png)
+
 ## kesimpulan
 
     Dari praktikum ini kita jadi ngerti gimana cara bikin aplikasi Flutter yang punya fitur Login dan Registrasi. Kita bisa belajar bikin tampilan aplikasi, ngatur input dari user, sama pindah halaman antar screen. Intinya, praktikum ini ngebantu buat lebih paham dasar-dasar bikin aplikasi mobile sederhana pakai Flutter.
